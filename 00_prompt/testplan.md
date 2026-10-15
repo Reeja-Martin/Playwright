@@ -1,3 +1,6 @@
+
+--------------------------------
+=====================================
 VWO Staging Authentication — Functional Test Plan
 Proposed Test Plan ID: TP-VWO-AUTH-001
 Status: Draft for review
